@@ -2,7 +2,7 @@
 """
 Example script reading measurement values from the EE895 sensor via I2C interface.
 
-Copyright 2022 E+E Elektronik Ges.m.b.H.
+Copyright 2023 E+E Elektronik Ges.m.b.H.
 
 Disclaimer:
 This application example is non-binding and does not claim to be complete with regard
@@ -18,7 +18,7 @@ We reserve the right to make changes to this application example at any time wit
 In case of discrepancies between the suggestions in this application example and other E+E
 publications, such as catalogues, the content of the other documentation takes precedence.
 We assume no liability for the information contained in this document.
-"""ss
+"""
 
 import time
 from ee895_i2c_library import EE895

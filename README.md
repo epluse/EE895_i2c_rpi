@@ -6,7 +6,8 @@
 ![EE895](./images/EE895-co2-element.png)  
 
 
-[![button1](./images/learn-more.png)](https://www.epluse.com/en/products/co2-measurement/co2-sensor/ee895/)   [![button2](./images/data-sheet.png)](https://downloads.epluse.com/fileadmin/data/product/ee895/datasheet_EE895.pdf) 
+<!--[![button1](./images/learn-more.png)](https://www.epluse.com/en/products/co2-measurement/co2-sensor/ee895/)   -->
+[![button2](./images/data-sheet.png)](https://downloads.epluse.com/fileadmin/data/product/ee895/datasheet_EE895.pdf) 
 
 
 
